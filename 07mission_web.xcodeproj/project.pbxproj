@@ -13,6 +13,7 @@
 		184F454425EFA25700744BD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184F454225EFA25700744BD7 /* Main.storyboard */; };
 		184F454625EFA25900744BD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 184F454525EFA25900744BD7 /* Assets.xcassets */; };
 		184F454925EFA25900744BD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184F454725EFA25900744BD7 /* LaunchScreen.storyboard */; };
+		184F455225EFA2E400744BD7 /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = 184F455125EFA2E400744BD7 /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		184F454525EFA25900744BD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		184F454825EFA25900744BD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		184F454A25EFA25900744BD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		184F455125EFA2E400744BD7 /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				184F453E25EFA25700744BD7 /* SceneDelegate.swift */,
 				184F454025EFA25700744BD7 /* ViewController.swift */,
 				184F454225EFA25700744BD7 /* Main.storyboard */,
+				184F455125EFA2E400744BD7 /* htmlView.html */,
 				184F454525EFA25900744BD7 /* Assets.xcassets */,
 				184F454725EFA25900744BD7 /* LaunchScreen.storyboard */,
 				184F454A25EFA25900744BD7 /* Info.plist */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				184F455225EFA2E400744BD7 /* htmlView.html in Resources */,
 				184F454925EFA25900744BD7 /* LaunchScreen.storyboard in Resources */,
 				184F454625EFA25900744BD7 /* Assets.xcassets in Resources */,
 				184F454425EFA25700744BD7 /* Main.storyboard in Resources */,
